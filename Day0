@@ -1,0 +1,15 @@
+#include<stdio.h>
+#include<string.h>
+#include<stdlib.h>
+#include<math.h>
+
+int main()
+{
+    char str[100];
+    printf("Hello, World.");
+    gets (str);
+    printf("\n");
+    puts (str);
+    return 0;
+    
+}
